@@ -1,0 +1,6 @@
+{
+    "github-actions.workflows.pinned.workflows": [
+        ".github/workflows/main-ci.yml"
+    ],
+    "CodeGPT.apiKey": "CodeGPT Plus Beta"
+}
