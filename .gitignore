@@ -27,3 +27,5 @@ app/.env
 
 # Parser result
 app/result/*
+
+.vscode/*
